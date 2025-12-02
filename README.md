@@ -1,2 +1,3 @@
 # bookbot
-A command line book bot project on Python for education purposes.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
